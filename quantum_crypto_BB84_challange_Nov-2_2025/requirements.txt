@@ -1,0 +1,14 @@
+# BB84 Quantum Cryptography Challenge - Requirements
+# Python 3.8+ required
+
+# Core Qiskit libraries (version 2.1.2)
+qiskit==2.1.2
+qiskit-aer>=0.15.0
+
+# Visualization dependencies (for Jupyter notebook)
+matplotlib>=3.5.0
+pylatexenc>=2.10
+
+# Standard library dependencies (no installation needed, listed for reference)
+# - random (built-in)
+# - numpy (included with qiskit)
